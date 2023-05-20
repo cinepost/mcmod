@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XXX",
+    "X#X",
+    "XXX"
+  ],
+  "key": {
+    "#": {
+      "item": "mcmod:glass_jar"
+    },
+    "X": {
+      "item": "minecraft:sweet_berries"
+    }
+  },
+  "result": {
+    "item": "mcmod:sweet_berries_jam"
+  }
+}
